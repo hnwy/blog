@@ -15,7 +15,7 @@
 ".*" : "text"	
 },
 "title" : "wangyu's Blog",
-"comment" : {"type": "duoshuo", "short_name":"wangyu"},
+"comment"  : "on",
 "domain-alias" : ["blog.wangyu.co"],
 "friends" : [
 {
